@@ -1,4 +1,3 @@
-
 # -*- coding: utf-8 -*-
 # Equação do Segundo Grau
 
